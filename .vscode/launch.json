@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "logicalOperators",
+            "request": "launch",
+            "mainClass": "bro_code_user_input.logicalOperators",
+            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+        },
+        {
+            "type": "java",
             "name": "testeAndre",
             "request": "launch",
             "mainClass": "bro_code_user_input.testeAndre",
