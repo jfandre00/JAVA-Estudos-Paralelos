@@ -1,182 +1,189 @@
 {
-    // Use o IntelliSense para saber mais sobre os atributos possíveis.
-    // Focalizar para exibir as descrições dos atributos existentes.
-    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "logicalOperators",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.logicalOperators",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "testeAndre",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.testeAndre",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "Main2",
-            "request": "launch",
-            "mainClass": "Main2",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "TestesAndre",
-            "request": "launch",
-            "mainClass": "TestesAndre",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "Main(1)",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.Main",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "areaRetangulo",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.areaRetangulo",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "arithmetic",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.arithmetic",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "calculator",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.calculator",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "compoundInterestCalculator",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.compoundInterestCalculator",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "enhancedSwitches",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.enhancedSwitches",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "if_statements",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.if_statements",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "mad_libs_game",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.mad_libs_game",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "mathClass",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.mathClass",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "nestedIfStatements",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.nestedIfStatements",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "printf",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.printf",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "random_numbers",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.random_numbers",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "shopping_cart",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.shopping_cart",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "stringMethods",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.stringMethods",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "substrings",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.substrings",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "temperatureConverter",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.temperatureConverter",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "ternaryOperator",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.ternaryOperator",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "weightConversion",
-            "request": "launch",
-            "mainClass": "bro_code_user_input.weightConversion",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        },
-        {
-            "type": "java",
-            "name": "Main(2)",
-            "request": "launch",
-            "mainClass": "java_bro_code.Main",
-            "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
-        }
-    ]
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Principal",
+      "request": "launch",
+      "mainClass": "Principal",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "logicalOperators",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.logicalOperators",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "testeAndre",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.testeAndre",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "Main2",
+      "request": "launch",
+      "mainClass": "Main2",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TestesAndre",
+      "request": "launch",
+      "mainClass": "TestesAndre",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "Main(1)",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.Main",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "areaRetangulo",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.areaRetangulo",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "arithmetic",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.arithmetic",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.calculator",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "compoundInterestCalculator",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.compoundInterestCalculator",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "enhancedSwitches",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.enhancedSwitches",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "if_statements",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.if_statements",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "mad_libs_game",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.mad_libs_game",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "mathClass",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.mathClass",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "nestedIfStatements",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.nestedIfStatements",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "printf",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.printf",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "random_numbers",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.random_numbers",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "shopping_cart",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.shopping_cart",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "stringMethods",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.stringMethods",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "substrings",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.substrings",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "temperatureConverter",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.temperatureConverter",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "ternaryOperator",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.ternaryOperator",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "weightConversion",
+      "request": "launch",
+      "mainClass": "bro_code_user_input.weightConversion",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "Main(2)",
+      "request": "launch",
+      "mainClass": "java_bro_code.Main",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    }
+  ]
 }
