@@ -6,6 +6,125 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TP2ex12",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex12",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex11",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex11",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex10",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex10",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex09",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex09",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex08",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex08",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex07",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex07",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex06",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex06",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex05",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex05",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex04",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex04",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP3ex04",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP3ex04",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP3ex03",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP3ex03",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex02",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex02",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP2ex01",
+      "request": "launch",
+      "mainClass": "TPs_Infnet_4T25.TP2ex01",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP1ex09",
+      "request": "launch",
+      "mainClass": "TPsInfnet.TP1ex09",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP1ex08",
+      "request": "launch",
+      "mainClass": "TPsInfnet.TP1ex08",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP1ex01",
+      "request": "launch",
+      "mainClass": "TPsInfnet.TP1ex01",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
+      "name": "TP1ex01",
+      "request": "launch",
+      "mainClass": "TP1ex01",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
       "name": "Principal",
       "request": "launch",
       "mainClass": "Principal",
