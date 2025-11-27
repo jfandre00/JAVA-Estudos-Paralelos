@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Beecrowd1011",
+      "request": "launch",
+      "mainClass": "Beecrowd1011",
+      "projectName": "JAVA-Estudos-Paralelos_8375e7b2"
+    },
+    {
+      "type": "java",
       "name": "TP2ex12",
       "request": "launch",
       "mainClass": "TPs_Infnet_4T25.TP2ex12",
